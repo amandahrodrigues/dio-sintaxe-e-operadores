@@ -1,2 +1,3 @@
-# dio-sintaxe-e-operadores
-Projeto de calculadora com javascript no curso sintaxe básica de javascript na DIO
+# Sintaxe e Operadores JavaScript :woman_technologist:
+Projeto curso da DIO de sintaxe e operadores javascript
+
